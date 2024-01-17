@@ -1,1 +1,1 @@
-This repository contains the notebooks used in learning ML from the course.
+This repository contains some notebooks from Google Collab which were created while doing data exploration on medical_insurance and Rain Prediction data, using Linear Regression, Logistic Regression, and Random Forests classifier to obtain high accuracy on predictions of training as well as test dataset.
